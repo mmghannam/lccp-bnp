@@ -1,0 +1,12 @@
+{
+    "dual_bound_at_root": 6.0,
+    "gap_at_root": null,
+    "primal_bound_at_root": 11.0,
+    "final_gap": 45.4545,
+    "primal_bound": 11.0,
+    "dual_bound": 6.0,
+    "number_of_nodes": 1447,
+    "instance_name": "t84_kroD100",
+    "timelimit": 7200,
+    "total_time": 7201.93
+}

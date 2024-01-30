@@ -1,0 +1,12 @@
+{
+    "dual_bound_at_root": 5.0,
+    "gap_at_root": null,
+    "primal_bound_at_root": 8.0,
+    "final_gap": 0.0,
+    "primal_bound": 6.0,
+    "dual_bound": 6.0,
+    "number_of_nodes": 122750,
+    "instance_name": "t62_att48",
+    "timelimit": 7200,
+    "total_time": 2954.92
+}

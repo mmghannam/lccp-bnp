@@ -1,0 +1,12 @@
+{
+    "dual_bound_at_root": 4.0,
+    "gap_at_root": null,
+    "primal_bound_at_root": 7.0,
+    "final_gap": 28.5714,
+    "primal_bound": 7.0,
+    "dual_bound": 5.0,
+    "number_of_nodes": 161057,
+    "instance_name": "t62_eil51",
+    "timelimit": 7200,
+    "total_time": 7201.78
+}

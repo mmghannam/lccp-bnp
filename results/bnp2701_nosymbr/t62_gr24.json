@@ -1,0 +1,29 @@
+{
+    "time_to_first_node": "0.5s",
+    "dual_bound_at_root": 5.0,
+    "primal_bound_at_root": 5.0,
+    "final_gap": 0.0,
+    "primal_bound": 5.0,
+    "dual_bound": 5.0,
+    "number_of_nodes": 1,
+    "instance_name": "t62_gr24",
+    "timelimit": 7200,
+    "total_time": 0.5,
+    "solution": [
+        "[4, 12, 22, 1, 4]",
+        "checking cycle [4, 12, 22, 1, 4]",
+        "[4, 12, 22, 1, 4] 335 293",
+        "[18, 21, 23, 18]",
+        "checking cycle [18, 21, 23, 18]",
+        "[18, 21, 23, 18] 216 194",
+        "[7, 17, 3, 7]",
+        "checking cycle [7, 17, 3, 7]",
+        "[7, 17, 3, 7] 419 284",
+        "[15, 8, 14, 6, 13, 5, 15]",
+        "checking cycle [15, 8, 14, 6, 13, 5, 15]",
+        "[15, 8, 14, 6, 13, 5, 15] 443 428",
+        "[0, 11, 16, 19, 2, 10, 20, 9, 0]",
+        "checking cycle [0, 11, 16, 19, 2, 10, 20, 9, 0]",
+        "[0, 11, 16, 19, 2, 10, 20, 9, 0] 357 356"
+    ]
+}

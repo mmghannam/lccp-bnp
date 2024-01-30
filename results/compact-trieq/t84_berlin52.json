@@ -1,0 +1,12 @@
+{
+    "dual_bound_at_root": 7.0,
+    "gap_at_root": null,
+    "primal_bound_at_root": 9.0,
+    "final_gap": 0.0,
+    "primal_bound": 9.0,
+    "dual_bound": 9.0,
+    "number_of_nodes": 17500,
+    "instance_name": "t84_berlin52",
+    "timelimit": 7200,
+    "total_time": 2858.83
+}

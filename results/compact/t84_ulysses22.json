@@ -1,0 +1,12 @@
+{
+    "dual_bound_at_root": 6.0,
+    "gap_at_root": null,
+    "primal_bound_at_root": 7.0,
+    "final_gap": 0.0,
+    "primal_bound": 7.0,
+    "dual_bound": 7.0,
+    "number_of_nodes": 24,
+    "instance_name": "t84_ulysses22",
+    "timelimit": 7200,
+    "total_time": 3.72
+}
