@@ -31,5 +31,6 @@ python main.py --help
 ``` 
 
 ## Instance-wise results
-Refer to []
+Refer to [results/README.md](results/README.md) for the instance-wise results.
+
 
