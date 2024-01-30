@@ -1,0 +1,12 @@
+{
+    "dual_bound_at_root": 3.0,
+    "gap_at_root": null,
+    "primal_bound_at_root": 8.0,
+    "final_gap": 50.0,
+    "primal_bound": 8.0,
+    "dual_bound": 4.0,
+    "number_of_nodes": 2324,
+    "instance_name": "t62_kroA100",
+    "timelimit": 7200,
+    "total_time": 7202.87
+}

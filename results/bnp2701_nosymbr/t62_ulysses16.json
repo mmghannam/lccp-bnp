@@ -1,0 +1,26 @@
+{
+    "time_to_first_node": "0.0s",
+    "dual_bound_at_root": 4.0,
+    "primal_bound_at_root": 4.0,
+    "final_gap": 0.0,
+    "primal_bound": 4.0,
+    "dual_bound": 4.0,
+    "number_of_nodes": 1,
+    "instance_name": "t62_ulysses16",
+    "timelimit": 7200,
+    "total_time": 0.03,
+    "solution": [
+        "t_[5, 9, 0, 4, 7, 5]",
+        "checking cycle [5, 9, 0, 4, 7, 5]",
+        "[5, 9, 0, 4, 7, 5] 1925 1401",
+        "t_[15, 13, 2, 12, 15]",
+        "checking cycle [15, 13, 2, 12, 15]",
+        "[15, 13, 2, 12, 15] 1534 1315",
+        "t_[14, 14]",
+        "checking cycle [14, 14]",
+        "[14, 14] 1555 2",
+        "t_[11, 10, 8, 1, 3, 6, 11]",
+        "checking cycle [11, 10, 8, 1, 3, 6, 11]",
+        "[11, 10, 8, 1, 3, 6, 11] 1734 1636"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "dual_bound_at_root": 6.0,
+    "gap_at_root": null,
+    "primal_bound_at_root": 11.0,
+    "final_gap": 36.3636,
+    "primal_bound": 11.0,
+    "dual_bound": 7.0,
+    "number_of_nodes": 21930,
+    "instance_name": "at84_ftv64",
+    "timelimit": 7200,
+    "total_time": 7210.46
+}

@@ -1,0 +1,12 @@
+{
+    "dual_bound_at_root": 3.0,
+    "gap_at_root": null,
+    "primal_bound_at_root": 6.0,
+    "final_gap": 16.6667,
+    "primal_bound": 6.0,
+    "dual_bound": 5.0,
+    "number_of_nodes": 233992,
+    "instance_name": "t62_brazil58",
+    "timelimit": 7200,
+    "total_time": 7201.59
+}

@@ -1,0 +1,13 @@
+{
+    "time_to_first_node": "0.4s",
+    "dual_bound_at_root": 1.0,
+    "primal_bound_at_root": 9.0,
+    "final_gap": "In",
+    "primal_bound": 9.0,
+    "dual_bound": 1.0,
+    "number_of_nodes": 1,
+    "instance_name": "at62_ftv70",
+    "timelimit": null,
+    "total_time": null,
+    "solution": []
+}

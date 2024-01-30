@@ -1,0 +1,13 @@
+{
+    "time_to_first_node": "0.3s",
+    "dual_bound_at_root": 1.0,
+    "primal_bound_at_root": 10.0,
+    "final_gap": "In",
+    "primal_bound": 10.0,
+    "dual_bound": 1.0,
+    "number_of_nodes": 1,
+    "instance_name": "t84_kroD100",
+    "timelimit": null,
+    "total_time": null,
+    "solution": []
+}

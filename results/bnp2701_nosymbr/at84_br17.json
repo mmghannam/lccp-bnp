@@ -1,0 +1,32 @@
+{
+    "time_to_first_node": "0.0s",
+    "dual_bound_at_root": 6.0,
+    "primal_bound_at_root": 6.0,
+    "final_gap": 0.0,
+    "primal_bound": 6.0,
+    "dual_bound": 6.0,
+    "number_of_nodes": 1,
+    "instance_name": "at84_br17",
+    "timelimit": 7200,
+    "total_time": 0.01,
+    "solution": [
+        "t_[15, 4, 15]",
+        "checking cycle [15, 4, 15]",
+        "[15, 4, 15] 4 0",
+        "t_[16, 9, 7, 5, 16]",
+        "checking cycle [16, 9, 7, 5, 16]",
+        "[16, 9, 7, 5, 16] 4 0",
+        "t_[8, 12, 10, 8]",
+        "checking cycle [8, 12, 10, 8]",
+        "[8, 12, 10, 8] 5 0",
+        "t_[11, 13, 3, 0, 11]",
+        "checking cycle [11, 13, 3, 0, 11]",
+        "[11, 13, 3, 0, 11] 5 0",
+        "t_[14, 6, 14]",
+        "checking cycle [14, 6, 14]",
+        "[14, 6, 14] 5 0",
+        "t_[1, 2, 1]",
+        "checking cycle [1, 2, 1]",
+        "[1, 2, 1] 8 0"
+    ]
+}

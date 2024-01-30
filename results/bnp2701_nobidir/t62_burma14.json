@@ -1,0 +1,29 @@
+{
+    "time_to_first_node": "0.0s",
+    "dual_bound_at_root": 5.0,
+    "primal_bound_at_root": 5.0,
+    "final_gap": 0.0,
+    "primal_bound": 5.0,
+    "dual_bound": 5.0,
+    "number_of_nodes": 1,
+    "instance_name": "t62_burma14",
+    "timelimit": 7200,
+    "total_time": 0.03,
+    "solution": [
+        "t_[4, 1, 6, 4]",
+        "checking cycle [4, 1, 6, 4]",
+        "[4, 1, 6, 4] 1148 1083",
+        "t_[8, 5, 9, 2, 7, 8]",
+        "checking cycle [8, 5, 9, 2, 7, 8]",
+        "[8, 5, 9, 2, 7, 8] 1046 875",
+        "t_[13, 3, 0, 13]",
+        "checking cycle [13, 3, 0, 13]",
+        "[13, 3, 0, 13] 835 688",
+        "t_[12, 12]",
+        "checking cycle [12, 12]",
+        "[12, 12] 902 2",
+        "t_[11, 10, 11]",
+        "checking cycle [11, 10, 11]",
+        "[11, 10, 11] 981 835"
+    ]
+}
