@@ -1,5 +1,5 @@
 # lccp-bnp
-The repository contains the branch-and-price algorithm and instance-wise results for the paper "Branch-and-Price for the Length-Constrained Cycle Partition Problem".
+The repository contains the branch-and-price algorithm and instance-wise results for the paper "Branch-and-Price for the Length-Constrained Cycle Partition Problem", you can find the preprint [here](https://arxiv.org/abs/2401.17937).
 
 ## Installation
 The easiest way to get started is to create a new conda environment using the `env.yml` file. 
